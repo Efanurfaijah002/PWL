@@ -1,0 +1,37 @@
+Efa Nur Faijah - 1120031016
+
+body{
+	height: 100vh;
+	background-color: white;
+	background-size: cover;
+	background-repeat: no-repeat;
+	font-style: monospace;
+}
+.container{
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+	padding: 20px 25px;
+	width: 300px;
+	background-color: rgba(0, 0, 0, .7);
+	box-shadow: 0 0 10px rgba(255, 255, 255, .3);
+}
+.container h2{
+	text-align: center;
+	color: #b0e0e6;
+	margin-bottom: 30px;
+	text-transform: uppercase;
+	border-bottom: 2px solid #20B2AA;
+}
+.container h3{
+	text-align: center;
+	color: #b0e0e6;
+	margin-bottom: 30px;
+	text-transform: uppercase;
+	border-bottom: 2px solid #20B2AA;
+}
+
+input[type="submit"]{
+	background-color: #e9967a;
+}
